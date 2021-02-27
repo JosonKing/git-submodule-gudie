@@ -4,3 +4,4 @@ git submodule gudie
 hello
 hello submodule
 hello gudie1
+hello submodule gudie2
